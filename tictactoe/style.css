@@ -1,0 +1,27 @@
+jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #149ecc;
+  color: ivory;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid rgb(255, 45, 0);
+  font-size: 100px;
+  background-color: rgb(4, 109, 220);
+  color: black;
+}
+
+table {
+  margin: auto auto;
+} 
+h1{
+    font-family: Showcard Gothic;
+}
+p{
+    font-family: Snap ITC;
+}
